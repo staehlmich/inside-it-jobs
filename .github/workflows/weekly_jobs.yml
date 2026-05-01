@@ -2,9 +2,9 @@ name: Extract Weekly Jobs
 
 on:
   schedule:
-    # Runs at 06:00 UTC (approx 07:00/08:00 AM local time)
+    # Runs at 15:15 UTC (approx 16:15/17:15 local time)
     # on Thursdays (4) and Fridays (5)
-    - cron: '0 6 * * 4,5'
+    - cron: '15 15 * * 4,5'
   workflow_dispatch: # Still allows manual runs anytime
 
 jobs:
@@ -20,7 +20,10 @@ jobs:
           python-version: '3.13'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: python -m pytest test_extract_jobs.py
 
       - name: Run extraction
         run: python extract_jobs.py
