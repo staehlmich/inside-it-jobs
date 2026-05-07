@@ -129,7 +129,7 @@ class JobExtractor:
         if not jobs:
             return "No jobs found for the specified period."
 
-        lines = [f"* **[{job['title']}]({job['link']})**" for job in jobs]
+        lines = [f"* [**{job['title']}**]({job['link']})" for job in jobs]
         return "\n".join(lines)
 
     def run(self, target_monday: datetime.date = None):
@@ -143,8 +143,8 @@ class JobExtractor:
         if target_monday is None:
             target_monday = self.get_target_monday(current_date)
 
-        print(f"Current Date: {current_date.strftime('%Y-%m-%d')}")
-        print(f"Target Monday: {target_monday}")
+        print(f"Current Date: {current_date.strftime('%d-%m-%Y')}")
+        print(f"Target Monday: {target_monday.strftime('%d-%m-%Y')}")
 
         try:
             xml_data = self.fetch_xml_content()
@@ -152,7 +152,8 @@ class JobExtractor:
             
             warning_msg = ""
             if not exact_match:
-                warning_msg = f"No jobs for {target_monday} available yet."
+                formatted_monday = target_monday.strftime('%d-%m-%Y')
+                warning_msg = f"No jobs for {formatted_monday} available yet."
                 print(f"[Warning] {warning_msg} Showing latest available jobs instead.")
 
             output = self.format_as_markdown(jobs)
@@ -173,8 +174,8 @@ class JobExtractor:
     def _write_github_summary(self, current_date, target_date, content, warning=""):
         """Writes the output to the GitHub Actions workflow summary."""
         with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f:
-            f.write(f"### 🗓️ Today is: {current_date}\n")
-            f.write(f"### 🚀 Weekly Jobs for {target_date}\n")
+            f.write(f"### 🗓️ Today is: {current_date.strftime('%d-%m-%Y')}\n")
+            f.write(f"### 🚀 Weekly Jobs for {target_date.strftime('%d-%m-%Y')}\n")
             
             if warning:
                 f.write(f"> {warning}\n")
@@ -189,18 +190,16 @@ class JobExtractor:
             f.write(f"# 📋 Newsletter: Weekly Job Extraction\n\n")
             f.write(f"This page is automatically updated with the latest job listings for the newsletter.\n\n")
             f.write(f"**Schedule:** Runs every Thursday and Friday at 15:15, 15:30, 15:45, and 16:00 UTC.\n\n")
-            f.write(f"### 🗓️ Extraction Date: {current_date}\n")
-            f.write(f"### 🚀 Targeted Newsletter Week: {target_date}\n\n")
+            f.write(f"### 🗓️ Extraction Date: {current_date.strftime('%d-%m-%Y')}\n")
+            f.write(f"### 🚀 Targeted Newsletter Week: {target_date.strftime('%d-%m-%Y')}\n\n")
             
             if warning:
                 f.write(f"> ⚠️ **Note:** {warning}\n\n")
                 
-            f.write("#### Newsletter Entries (Copy-Paste):\n\n")
-            f.write("```markdown\n")
-            f.write(content + "\n")
-            f.write("```\n\n")
+            f.write("#### Newsletter Entries:\n\n")
+            f.write(content + "\n\n")
             f.write("---\n")
-            f.write(f"*Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC*")
+            f.write(f"*Last updated: {datetime.now().strftime('%d-%m-%Y %H:%M:%S')} UTC*")
 
 if __name__ == "__main__":
     FEED_URL = "https://ictjobs.ch/custom-feed/inside-it/"

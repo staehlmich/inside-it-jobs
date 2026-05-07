@@ -28,8 +28,8 @@ def test_markdown_formatting():
         {'title': 'Job 2', 'link': 'http://link2'}
     ]
     output = extractor.format_as_markdown(jobs)
-    assert "* **[Job 1](http://link1)**" in output
-    assert "* **[Job 2](http://link2)**" in output
+    assert "* [**Job 1**](http://link1)" in output
+    assert "* [**Job 2**](http://link2)" in output
     assert "\n" in output
 
 def test_empty_jobs_markdown():
