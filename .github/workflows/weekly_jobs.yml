@@ -2,10 +2,14 @@ name: Extract Weekly Jobs
 
 on:
   schedule:
-    # Runs at 15:15 UTC (approx 16:15/17:15 local time)
+    # Runs at 15:15, 15:30, 15:45 and 16:00 UTC
     # on Thursdays (4) and Fridays (5)
-    - cron: '15 15 * * 4,5'
+    - cron: '15,30,45 15 * * 4,5'
+    - cron: '0 16 * * 4,5'
   workflow_dispatch: # Still allows manual runs anytime
+
+permissions:
+  contents: write
 
 jobs:
   extract:
@@ -27,3 +31,11 @@ jobs:
 
       - name: Run extraction
         run: python extract_jobs.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "Update README with latest job listings" || echo "No changes to commit"
+          git push
