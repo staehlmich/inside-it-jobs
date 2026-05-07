@@ -7,13 +7,11 @@ This page is automatically updated with the latest job listings for the newslett
 ### 🗓️ Extraction Date: 07-05-2026
 ### 🚀 Targeted Newsletter Week: 11-05-2026
 
-> ⚠️ **Note:** No jobs for 11-05-2026 available yet.
-
 #### Newsletter Entries:
 
-* [**SAP Development Manager – Cloud & Extension Technologies | 80–100%**](https://ictjobs.ch/beratung-consultants/sap-development-manager-cloud-extension-technologies-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
-* [**Head of Engineering Business Applications 80–100 %**](https://ictjobs.ch/it-management/head-of-engineering-business-applications-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
-* [**Applikationsberater*in mit SAP IS-H Modulverantwortung 80–100%**](https://ictjobs.ch/beratung-consultants/applikationsberaterin-mit-sap-is-h-modulverantwortung-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
+* [**Cyber Security Operations Manager 80–100%**](https://ictjobs.ch/it-security/cyber-security-operations-manager-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
+* [**ICT-Support 60–100%**](https://ictjobs.ch/support-it-services/ict-support-60-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
+* [**ICT-System-Engineer 60–100%**](https://ictjobs.ch/system-netzwerktechnik-security-voip/ict-system-engineer-60-100-2/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 07-05-2026 09:53:10 UTC*
+*Last updated: 07-05-2026 17:04:10 UTC*
