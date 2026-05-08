@@ -4,7 +4,7 @@ This page is automatically updated with the latest job listings for the newslett
 
 **Schedule:** Runs every Thursday and Friday at 15:15, 15:30, 15:45, and 16:00 UTC.
 
-### 🗓️ Extraction Date: 07-05-2026
+### 🗓️ Extraction Date: 08-05-2026
 ### 🚀 Targeted Newsletter Week: 11-05-2026
 
 #### Newsletter Entries:
@@ -14,4 +14,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**ICT-System-Engineer 60–100%**](https://ictjobs.ch/system-netzwerktechnik-security-voip/ict-system-engineer-60-100-2/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 07-05-2026 17:49:01 UTC*
+*Last updated: 08-05-2026 16:45:24 UTC*
