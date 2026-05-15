@@ -14,4 +14,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**ICT Supporter/in Service Desk 80–100%**](https://ictjobs.ch/support-it-services/ict-supporter-in-service-desk-80-100-2/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 15-05-2026 17:01:12 UTC*
+*Last updated: 15-05-2026 17:28:22 UTC*
