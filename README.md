@@ -2,18 +2,16 @@
 
 This page is automatically updated with the latest job listings for the newsletter.
 
-**Schedule:** Runs every Thursday and Friday at 15:15, 15:30, 15:45, and 16:00 UTC.
+**Schedule:** Runs every Thursday and Friday at 15:15, 15:30, 15:45, and 16:00 Swiss Time (CET/CEST).
 
-### 🗓️ Extraction Date: 07-05-2026
-### 🚀 Targeted Newsletter Week: 11-05-2026
-
-> ⚠️ **Note:** No jobs for 11-05-2026 available yet.
+### 🗓️ Extraction Date: 18-05-2026
+### 🚀 Targeted Newsletter Week: 18-05-2026
 
 #### Newsletter Entries:
 
-* [**SAP Development Manager – Cloud & Extension Technologies | 80–100%**](https://ictjobs.ch/beratung-consultants/sap-development-manager-cloud-extension-technologies-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
-* [**Head of Engineering Business Applications 80–100 %**](https://ictjobs.ch/it-management/head-of-engineering-business-applications-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
-* [**Applikationsberater*in mit SAP IS-H Modulverantwortung 80–100%**](https://ictjobs.ch/beratung-consultants/applikationsberaterin-mit-sap-is-h-modulverantwortung-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
+* [**Leiterin (m/w) Administrative Applications**](https://ictjobs.ch/support-it-services/leiterin-m-w-administrative-applications/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
+* [**Cloud Engineer Plattform | 100%**](https://ictjobs.ch/system-netzwerktechnik-security-voip/cloud-engineer-plattform-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
+* [**ICT Supporter/in Service Desk 80–100%**](https://ictjobs.ch/support-it-services/ict-supporter-in-service-desk-80-100-2/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 07-05-2026 09:53:10 UTC*
+*Last updated: 18-05-2026 17:54:59 Swiss Time*

@@ -1,6 +1,7 @@
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 import os
 
 class JobExtractor:
@@ -139,7 +140,19 @@ class JobExtractor:
 
         :param target_monday: Optional specific Monday to target (for testing).
         """
-        current_date = datetime.now()
+        current_date = datetime.now(ZoneInfo("Europe/Zurich"))
+        
+        # DST Adjustment: Only proceed if it's the correct Swiss hour (15:00-16:00)
+        # unless it's a manual run or local execution.
+        is_scheduled = os.environ.get('GITHUB_EVENT_NAME') == 'schedule'
+        if is_scheduled:
+            # We want to run at 15:15, 15:30, 15:45 and 16:00 Swiss Time
+            # So hour must be 15, OR hour 16 and minute 0.
+            if not (current_date.hour == 15 or (current_date.hour == 16 and current_date.minute == 0)):
+                print(f"Skipping scheduled run: Swiss time is {current_date.strftime('%H:%M')}. "
+                      "This run is outside the target window (15:15-16:00 Swiss Time).")
+                return
+
         if target_monday is None:
             target_monday = self.get_target_monday(current_date)
 
@@ -189,7 +202,8 @@ class JobExtractor:
         with open("README.md", "w", encoding="utf-8") as f:
             f.write(f"# 📋 Newsletter: Weekly Job Extraction\n\n")
             f.write(f"This page is automatically updated with the latest job listings for the newsletter.\n\n")
-            f.write(f"**Schedule:** Runs every Thursday and Friday at 15:15, 15:30, 15:45, and 16:00 UTC.\n\n")
+            f.write(f"**Schedule:** Runs every Thursday and Friday at 15:15, 15:30, 15:45, and 16:00 Swiss Time.\n")
+            f.write(f"*(Automatically adjusts for Daylight Saving Time / Summer Time)*\n\n")
             f.write(f"### 🗓️ Extraction Date: {current_date.strftime('%d-%m-%Y')}\n")
             f.write(f"### 🚀 Targeted Newsletter Week: {target_date.strftime('%d-%m-%Y')}\n\n")
             
@@ -199,7 +213,7 @@ class JobExtractor:
             f.write("#### Newsletter Entries:\n\n")
             f.write(content + "\n\n")
             f.write("---\n")
-            f.write(f"*Last updated: {datetime.now().strftime('%d-%m-%Y %H:%M:%S')} UTC*")
+            f.write(f"*Last updated: {datetime.now(ZoneInfo('Europe/Zurich')).strftime('%d-%m-%Y %H:%M:%S')} Swiss Time*")
 
 if __name__ == "__main__":
     FEED_URL = "https://ictjobs.ch/custom-feed/inside-it/"

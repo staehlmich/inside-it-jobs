@@ -2,10 +2,11 @@ name: Extract Weekly Jobs
 
 on:
   schedule:
-    # Runs at 15:15, 15:30, 15:45 and 16:00 UTC
-    # on Thursdays (4) and Fridays (5)
-    - cron: '15,30,45 15 * * 4,5'
-    - cron: '0 16 * * 4,5'
+    # Runs at 15:15, 15:30, 15:45 and 16:00 Swiss Time year-round.
+    # The cron triggers in both possible UTC windows (13:xx and 14:xx).
+    # The Python script internally filters for the correct Swiss hour.
+    - cron: '15,30,45 13,14 * * 4,5'
+    - cron: '0 14,15 * * 4,5'
   workflow_dispatch: # Still allows manual runs anytime
 
 permissions:
