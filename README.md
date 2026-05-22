@@ -2,16 +2,17 @@
 
 This page is automatically updated with the latest job listings for the newsletter.
 
-**Schedule:** Runs every Thursday and Friday at 15:15, 15:30, 15:45, and 16:00 Swiss Time (CET/CEST).
+**Schedule:** Runs every Thursday and Friday at 15:15, 15:30, 15:45, and 16:00 Swiss Time.
+*(Automatically adjusts for Daylight Saving Time / Summer Time)*
 
-### 🗓️ Extraction Date: 18-05-2026
-### 🚀 Targeted Newsletter Week: 18-05-2026
+### 🗓️ Extraction Date: 22-05-2026
+### 🚀 Targeted Newsletter Week: 25-05-2026
 
 #### Newsletter Entries:
 
-* [**Leiterin (m/w) Administrative Applications**](https://ictjobs.ch/support-it-services/leiterin-m-w-administrative-applications/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
-* [**Cloud Engineer Plattform | 100%**](https://ictjobs.ch/system-netzwerktechnik-security-voip/cloud-engineer-plattform-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
-* [**ICT Supporter/in Service Desk 80–100%**](https://ictjobs.ch/support-it-services/ict-supporter-in-service-desk-80-100-2/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
+* [**IoT Data Engineer • 80–100%**](https://ictjobs.ch/software-entwicklung/iot-data-engineer-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
+* [**Cyber Security Engineer 100%**](https://ictjobs.ch/it-security/cyber-security-engineer-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
+* [**IT-System Engineer (a) 80–100%**](https://ictjobs.ch/system-netzwerktechnik-security-voip/it-system-analyst-a-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 18-05-2026 17:54:59 Swiss Time*
+*Last updated: 22-05-2026 14:48:08 Swiss Time*

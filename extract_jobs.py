@@ -141,17 +141,6 @@ class JobExtractor:
         :param target_monday: Optional specific Monday to target (for testing).
         """
         current_date = datetime.now(ZoneInfo("Europe/Zurich"))
-        
-        # DST Adjustment: Only proceed if it's the correct Swiss hour (15:00-16:00)
-        # unless it's a manual run or local execution.
-        is_scheduled = os.environ.get('GITHUB_EVENT_NAME') == 'schedule'
-        if is_scheduled:
-            # We want to run at 15:15, 15:30, 15:45 and 16:00 Swiss Time
-            # So hour must be 15, OR hour 16 and minute 0.
-            if not (current_date.hour == 15 or (current_date.hour == 16 and current_date.minute == 0)):
-                print(f"Skipping scheduled run: Swiss time is {current_date.strftime('%H:%M')}. "
-                      "This run is outside the target window (15:15-16:00 Swiss Time).")
-                return
 
         if target_monday is None:
             target_monday = self.get_target_monday(current_date)
