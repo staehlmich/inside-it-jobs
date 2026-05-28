@@ -17,4 +17,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**IT-System Engineer (a) 80–100%**](https://ictjobs.ch/system-netzwerktechnik-security-voip/it-system-analyst-a-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 28-05-2026 19:02:58 Swiss Time*
+*Last updated: 28-05-2026 19:31:10 Swiss Time*
