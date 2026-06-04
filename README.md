@@ -17,4 +17,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Microsoft Workplace Engineer 80–100%**](https://ictjobs.ch/system-netzwerktechnik-security-voip/microsoft-workplace-engineer-80-100-3/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 04-06-2026 18:29:16 Swiss Time*
+*Last updated: 04-06-2026 18:42:27 Swiss Time*
