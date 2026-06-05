@@ -15,4 +15,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Product Owner (w/m/d) PDMS / Klinische Spezialsysteme 80–100%**](https://ictjobs.ch/projektleitung-agilitaet/product-owner-w-m-d-pdms-klinische-spezialsysteme-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 05-06-2026 18:09:14 Swiss Time*
+*Last updated: 05-06-2026 18:24:56 Swiss Time*
