@@ -17,4 +17,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Lead Category Computing 100%**](https://ictjobs.ch/beratung-consultants/lead-category-computing-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 18-06-2026 18:43:22 Swiss Time*
+*Last updated: 18-06-2026 18:49:45 Swiss Time*
