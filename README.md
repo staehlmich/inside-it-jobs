@@ -5,8 +5,10 @@ This page is automatically updated with the latest job listings for the newslett
 **Schedule:** Runs every Thursday and Friday at 15:15, 15:30, 15:45, and 16:00 Swiss Time.
 *(Automatically adjusts for Daylight Saving Time / Summer Time)*
 
-### 🗓️ Extraction Date: 12-06-2026
-### 🚀 Targeted Newsletter Week: 15-06-2026
+### 🗓️ Extraction Date: 18-06-2026
+### 🚀 Targeted Newsletter Week: 22-06-2026
+
+> ⚠️ **Note:** No jobs for 22-06-2026 available yet.
 
 #### Newsletter Entries:
 
@@ -15,4 +17,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Lead Category Computing 100%**](https://ictjobs.ch/beratung-consultants/lead-category-computing-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 12-06-2026 18:37:36 Swiss Time*
+*Last updated: 18-06-2026 18:43:22 Swiss Time*
