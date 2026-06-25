@@ -17,4 +17,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**System Engineer mit Flair für koordinative Aufgaben (SAFe Team Coach) (w/m/d) 80–100%**](https://ictjobs.ch/system-netzwerktechnik-security-voip/system-engineer-mit-flair-fuer-koordinative-aufgaben-safe-team-coach-w-m-d-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 25-06-2026 17:45:28 Swiss Time*
+*Last updated: 25-06-2026 18:14:23 Swiss Time*
