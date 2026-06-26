@@ -15,4 +15,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Junior Softwareentwickler:in mit Fokus KI-gestützte Entwicklung (80–100%)**](https://ictjobs.ch/software-entwicklung/junior-softwareentwicklerin-mit-fokus-ki-gestuetzte-entwicklung-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 26-06-2026 17:30:44 Swiss Time*
+*Last updated: 26-06-2026 18:05:34 Swiss Time*
