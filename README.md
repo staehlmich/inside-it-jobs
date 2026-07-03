@@ -15,4 +15,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**KI-Expert:in 80–100%, (w/m/d)**](https://ictjobs.ch/software-entwicklung/ki-expertin-80-100-wmd/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 03-07-2026 17:25:08 Swiss Time*
+*Last updated: 03-07-2026 17:47:23 Swiss Time*
