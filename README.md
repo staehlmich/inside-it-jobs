@@ -14,4 +14,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Techniker:in/Supporter:in (2nd Level) Unterhaltungselektronik (FR) & IT, Netzwerk | 80–100%**](https://ictjobs.ch/support-it-services/technikerin-supporterin-2nd-level-unterhaltungselektronik-fr-it-netzwerk-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 09-07-2026 18:09:29 Swiss Time*
+*Last updated: 09-07-2026 18:21:12 Swiss Time*
