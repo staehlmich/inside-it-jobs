@@ -5,14 +5,14 @@ This page is automatically updated with the latest job listings for the newslett
 **Schedule:** Runs every Thursday and Friday at 15:15, 15:30, 15:45, and 16:00 Swiss Time.
 *(Automatically adjusts for Daylight Saving Time / Summer Time)*
 
-### 🗓️ Extraction Date: 10-07-2026
-### 🚀 Targeted Newsletter Week: 13-07-2026
+### 🗓️ Extraction Date: 16-07-2026
+### 🚀 Targeted Newsletter Week: 20-07-2026
 
 #### Newsletter Entries:
 
-* [**Leiter/in ICT Support Onsite 80–100%**](https://ictjobs.ch/support-it-services/leiter-in-ict-support-onsite-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
-* [**Microsoft Copilot/AI Engineer 80–100%**](https://ictjobs.ch/system-netzwerktechnik-security-voip/microsoft-copilot-ai-engineer-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
-* [**Techniker:in/Supporter:in (2nd Level) Unterhaltungselektronik (FR) & IT, Netzwerk | 80–100%**](https://ictjobs.ch/support-it-services/technikerin-supporterin-2nd-level-unterhaltungselektronik-fr-it-netzwerk-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
+* [**Service Manager/in Expert 80%–100%**](https://ictjobs.ch/support-it-services/service-manager-in-expert-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
+* [**Fullstack Software Engineer E- & Mobile Banking (80%–100%)**](https://ictjobs.ch/software-entwicklung/fullstack-software-engineer-e-mobile-banking-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
+* [**Lead Quality Assurance (m/w/d)**](https://ictjobs.ch/projektleitung-agilitaet/lead-quality-assurance-m-w-d/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 10-07-2026 18:13:09 Swiss Time*
+*Last updated: 16-07-2026 17:13:09 Swiss Time*
