@@ -15,4 +15,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Lead Quality Assurance (m/w/d)**](https://ictjobs.ch/projektleitung-agilitaet/lead-quality-assurance-m-w-d/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 17-07-2026 16:52:58 Swiss Time*
+*Last updated: 17-07-2026 17:04:09 Swiss Time*
