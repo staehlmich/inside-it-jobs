@@ -5,8 +5,10 @@ This page is automatically updated with the latest job listings for the newslett
 **Schedule:** Runs every Thursday and Friday at 15:15, 15:30, 15:45, and 16:00 Swiss Time.
 *(Automatically adjusts for Daylight Saving Time / Summer Time)*
 
-### 🗓️ Extraction Date: 17-07-2026
-### 🚀 Targeted Newsletter Week: 20-07-2026
+### 🗓️ Extraction Date: 23-07-2026
+### 🚀 Targeted Newsletter Week: 27-07-2026
+
+> ⚠️ **Note:** No jobs for 27-07-2026 available yet.
 
 #### Newsletter Entries:
 
@@ -15,4 +17,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Lead Quality Assurance (m/w/d)**](https://ictjobs.ch/projektleitung-agilitaet/lead-quality-assurance-m-w-d/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 17-07-2026 17:04:09 Swiss Time*
+*Last updated: 23-07-2026 17:24:20 Swiss Time*
