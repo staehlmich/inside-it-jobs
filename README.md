@@ -5,8 +5,10 @@ This page is automatically updated with the latest job listings for the newslett
 **Schedule:** Runs every Thursday and Friday at 15:15, 15:30, 15:45, and 16:00 Swiss Time.
 *(Automatically adjusts for Daylight Saving Time / Summer Time)*
 
-### 🗓️ Extraction Date: 24-07-2026
-### 🚀 Targeted Newsletter Week: 27-07-2026
+### 🗓️ Extraction Date: 30-07-2026
+### 🚀 Targeted Newsletter Week: 03-08-2026
+
+> ⚠️ **Note:** No jobs for 03-08-2026 available yet.
 
 #### Newsletter Entries:
 
@@ -15,4 +17,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Cyber Security Engineer 100%**](https://ictjobs.ch/it-security/cyber-security-engineer-100-3/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 24-07-2026 17:19:21 Swiss Time*
+*Last updated: 30-07-2026 17:22:44 Swiss Time*
