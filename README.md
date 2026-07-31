@@ -15,4 +15,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Enterprise Architect Business Applications 80–100%**](https://ictjobs.ch/beratung-consultants/enterprise-architect-business-applications-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 31-07-2026 17:28:41 Swiss Time*
+*Last updated: 31-07-2026 17:54:04 Swiss Time*
