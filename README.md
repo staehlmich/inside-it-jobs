@@ -17,4 +17,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Fachliche/-r Applikationsverantwortliche/-r HR-Finanztools 80–100%**](https://ictjobs.ch/support-it-services/fachliche-r-applikationsverantwortliche-r-hr-finanztools-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 07-08-2026 16:43:56 Swiss Time*
+*Last updated: 07-08-2026 17:24:25 Swiss Time*
