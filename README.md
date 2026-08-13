@@ -17,4 +17,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Team Lead Software Engineering – Sourcing & Purchasing 80–100 %**](https://ictjobs.ch/software-entwicklung/team-lead-software-engineering-sourcing-purchasing-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 13-08-2026 17:38:30 Swiss Time*
+*Last updated: 13-08-2026 17:47:23 Swiss Time*
