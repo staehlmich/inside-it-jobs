@@ -15,4 +15,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Senior Full Stack Web-Entwickler:in mit Schwerpunkt Frontend, 80–100% (w/d/m)**](https://ictjobs.ch/software-entwicklung/senior-full-stack-web-entwicklerin-mit-schwerpunkt-frontend-80-100-w-d-m/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 14-08-2026 16:43:15 Swiss Time*
+*Last updated: 14-08-2026 17:21:27 Swiss Time*
