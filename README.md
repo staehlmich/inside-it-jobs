@@ -5,8 +5,10 @@ This page is automatically updated with the latest job listings for the newslett
 **Schedule:** Runs every Thursday and Friday at 15:15, 15:30, 15:45, and 16:00 Swiss Time.
 *(Automatically adjusts for Daylight Saving Time / Summer Time)*
 
-### 🗓️ Extraction Date: 14-08-2026
-### 🚀 Targeted Newsletter Week: 17-08-2026
+### 🗓️ Extraction Date: 20-08-2026
+### 🚀 Targeted Newsletter Week: 24-08-2026
+
+> ⚠️ **Note:** No jobs for 24-08-2026 available yet.
 
 #### Newsletter Entries:
 
@@ -15,4 +17,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Senior Full Stack Web-Entwickler:in mit Schwerpunkt Frontend, 80–100% (w/d/m)**](https://ictjobs.ch/software-entwicklung/senior-full-stack-web-entwicklerin-mit-schwerpunkt-frontend-80-100-w-d-m/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 14-08-2026 17:40:05 Swiss Time*
+*Last updated: 20-08-2026 15:58:39 Swiss Time*
