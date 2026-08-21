@@ -15,4 +15,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**​​Exchange Engineer 80–100 %​**](https://ictjobs.ch/system-netzwerktechnik-security-voip/exchange-engineer-80-100-2/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 21-08-2026 15:57:44 Swiss Time*
+*Last updated: 21-08-2026 16:23:02 Swiss Time*
