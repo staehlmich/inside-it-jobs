@@ -15,4 +15,4 @@ This page is automatically updated with the latest job listings for the newslett
 No jobs found for the specified period.
 
 ---
-*Last updated: 28-08-2026 00:57:26 Swiss Time*
+*Last updated: 28-08-2026 01:19:20 Swiss Time*
