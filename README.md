@@ -5,8 +5,10 @@ This page is automatically updated with the latest job listings for the newslett
 **Schedule:** Runs every Thursday and Friday at 15:15, 15:30, 15:45, and 16:00 Swiss Time.
 *(Automatically adjusts for Daylight Saving Time / Summer Time)*
 
-### 🗓️ Extraction Date: 29-08-2026
-### 🚀 Targeted Newsletter Week: 31-08-2026
+### 🗓️ Extraction Date: 03-09-2026
+### 🚀 Targeted Newsletter Week: 07-09-2026
+
+> ⚠️ **Note:** No jobs for 07-09-2026 available yet.
 
 #### Newsletter Entries:
 
@@ -15,4 +17,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Business Analyst Senior AI- und Process Automation 80%–100%**](https://ictjobs.ch/beratung-consultants/business-analyst-senior-ai-und-process-automation-80-100-2/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 29-08-2026 01:15:45 Swiss Time*
+*Last updated: 03-09-2026 19:02:20 Swiss Time*
