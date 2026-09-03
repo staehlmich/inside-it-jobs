@@ -17,4 +17,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Business Analyst Senior AI- und Process Automation 80%–100%**](https://ictjobs.ch/beratung-consultants/business-analyst-senior-ai-und-process-automation-80-100-2/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 03-09-2026 19:02:20 Swiss Time*
+*Last updated: 03-09-2026 19:22:01 Swiss Time*
