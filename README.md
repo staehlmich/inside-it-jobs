@@ -5,8 +5,10 @@ This page is automatically updated with the latest job listings for the newslett
 **Schedule:** Runs every Thursday and Friday at 15:15, 15:30, 15:45, and 16:00 Swiss Time.
 *(Automatically adjusts for Daylight Saving Time / Summer Time)*
 
-### 🗓️ Extraction Date: 04-09-2026
-### 🚀 Targeted Newsletter Week: 07-09-2026
+### 🗓️ Extraction Date: 10-09-2026
+### 🚀 Targeted Newsletter Week: 14-09-2026
+
+> ⚠️ **Note:** No jobs for 14-09-2026 available yet.
 
 #### Newsletter Entries:
 
@@ -15,4 +17,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Product Manager 80–100% (m/w/d)**](https://ictjobs.ch/beratung-consultants/product-manager-80-100-m-w-d-2/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 04-09-2026 19:14:21 Swiss Time*
+*Last updated: 10-09-2026 18:59:18 Swiss Time*
