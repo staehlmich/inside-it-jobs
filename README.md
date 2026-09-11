@@ -17,4 +17,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Product Manager 80–100% (m/w/d)**](https://ictjobs.ch/beratung-consultants/product-manager-80-100-m-w-d-2/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 11-09-2026 19:01:03 Swiss Time*
+*Last updated: 11-09-2026 19:23:53 Swiss Time*
