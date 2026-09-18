@@ -15,4 +15,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Azure Cloud Engineer (a) 80–100%**](https://ictjobs.ch/system-netzwerktechnik-security-voip/azure-cloud-engineer-a-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 18-09-2026 19:04:27 Swiss Time*
+*Last updated: 18-09-2026 19:21:23 Swiss Time*
