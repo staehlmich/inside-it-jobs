@@ -15,4 +15,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**ICT-System-Engineer 100%**](https://ictjobs.ch/system-netzwerktechnik-security-voip/ict-system-engineer-100-3/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 25-09-2026 19:56:52 Swiss Time*
+*Last updated: 25-09-2026 20:07:41 Swiss Time*
