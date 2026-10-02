@@ -15,4 +15,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Senior ICT System-Administrator:in 100%**](https://ictjobs.ch/system-netzwerktechnik-security-voip/senior-ict-system-administratorin-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 02-10-2026 20:24:36 Swiss Time*
+*Last updated: 02-10-2026 20:46:18 Swiss Time*
