@@ -15,4 +15,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Lead Go To Market**](https://ictjobs.ch/sales-marketing-e-business/lead-go-to-market/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 09-10-2026 20:48:26 Swiss Time*
+*Last updated: 09-10-2026 21:07:46 Swiss Time*
