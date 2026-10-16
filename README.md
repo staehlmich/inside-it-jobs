@@ -5,16 +5,14 @@ This page is automatically updated with the latest job listings for the newslett
 **Schedule:** Runs every Thursday and Friday at 15:15, 15:30, 15:45, and 16:00 Swiss Time.
 *(Automatically adjusts for Daylight Saving Time / Summer Time)*
 
-### 🗓️ Extraction Date: 15-10-2026
+### 🗓️ Extraction Date: 16-10-2026
 ### 🚀 Targeted Newsletter Week: 19-10-2026
-
-> ⚠️ **Note:** No jobs for 19-10-2026 available yet.
 
 #### Newsletter Entries:
 
-* [**Senior DevOps Software & Specification Engineer (m/w/d) 100%**](https://ictjobs.ch/software-entwicklung/senior-devops-software-specification-engineer-m-w-d-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
-* [**Senior AI Engineer, 80–100% (w/m/d)**](https://ictjobs.ch/beratung-consultants/senior-ai-engineer-80-100-w-m-d/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
-* [**Lead Go To Market**](https://ictjobs.ch/sales-marketing-e-business/lead-go-to-market/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
+* [**Senior Business Analyst Data Warehouse (m/w/d) 100%**](https://ictjobs.ch/beratung-consultants/senior-business-analyst-data-warehouse-m-w-d/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
+* [**CAS / Avaloq Consultant (80-100%)**](https://ictjobs.ch/beratung-consultants/cas-avaloq-consultant-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
+* [**Mitarbeiter:in Information- & Cybersecurity (m/w/d)**](https://ictjobs.ch/it-security/mitarbeiterin-information-cybersecurity-m-w-d/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 15-10-2026 19:55:50 Swiss Time*
+*Last updated: 16-10-2026 19:23:10 Swiss Time*
