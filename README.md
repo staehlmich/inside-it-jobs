@@ -15,4 +15,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Mitarbeiter:in Information- & Cybersecurity (m/w/d)**](https://ictjobs.ch/it-security/mitarbeiterin-information-cybersecurity-m-w-d/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 16-10-2026 19:23:10 Swiss Time*
+*Last updated: 16-10-2026 19:43:30 Swiss Time*
