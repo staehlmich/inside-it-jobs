@@ -5,14 +5,14 @@ This page is automatically updated with the latest job listings for the newslett
 **Schedule:** Runs every Thursday and Friday at 15:15, 15:30, 15:45, and 16:00 Swiss Time.
 *(Automatically adjusts for Daylight Saving Time / Summer Time)*
 
-### 🗓️ Extraction Date: 16-10-2026
-### 🚀 Targeted Newsletter Week: 19-10-2026
+### 🗓️ Extraction Date: 22-10-2026
+### 🚀 Targeted Newsletter Week: 26-10-2026
 
 #### Newsletter Entries:
 
-* [**Senior Business Analyst Data Warehouse (m/w/d) 100%**](https://ictjobs.ch/beratung-consultants/senior-business-analyst-data-warehouse-m-w-d/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
-* [**CAS / Avaloq Consultant (80-100%)**](https://ictjobs.ch/beratung-consultants/cas-avaloq-consultant-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
-* [**Mitarbeiter:in Information- & Cybersecurity (m/w/d)**](https://ictjobs.ch/it-security/mitarbeiterin-information-cybersecurity-m-w-d/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
+* [**ICT-Testmanager:in / Test Automation Engineer (m/w/d)**](https://ictjobs.ch/software-entwicklung/ict-testmanagerin-test-automation-engineer-m-w-d/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
+* [**Technical Sales Datacenter 100%**](https://ictjobs.ch/sales-marketing-e-business/technical-sales-datacenter-100-2/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
+* [**Head of IT & Security Operations | 80%–100%**](https://ictjobs.ch/support-it-services/head-of-it-security-operations-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 16-10-2026 19:43:30 Swiss Time*
+*Last updated: 22-10-2026 19:58:18 Swiss Time*
