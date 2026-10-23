@@ -5,7 +5,7 @@ This page is automatically updated with the latest job listings for the newslett
 **Schedule:** Runs every Thursday and Friday at 15:15, 15:30, 15:45, and 16:00 Swiss Time.
 *(Automatically adjusts for Daylight Saving Time / Summer Time)*
 
-### 🗓️ Extraction Date: 22-10-2026
+### 🗓️ Extraction Date: 23-10-2026
 ### 🚀 Targeted Newsletter Week: 26-10-2026
 
 #### Newsletter Entries:
@@ -15,4 +15,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Head of IT & Security Operations | 80%–100%**](https://ictjobs.ch/support-it-services/head-of-it-security-operations-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 22-10-2026 20:11:43 Swiss Time*
+*Last updated: 23-10-2026 19:52:17 Swiss Time*
