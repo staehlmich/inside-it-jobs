@@ -17,4 +17,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Head of IT & Security Operations | 80%–100%**](https://ictjobs.ch/support-it-services/head-of-it-security-operations-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 29-10-2026 19:57:31 Swiss Time*
+*Last updated: 29-10-2026 20:19:14 Swiss Time*
