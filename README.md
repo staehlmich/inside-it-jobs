@@ -15,4 +15,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**System Engineer Modern Workplace (Intune / M365) | 80%–100%**](https://ictjobs.ch/system-netzwerktechnik-security-voip/system-engineer-modern-workplace-intune-m365-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 30-10-2026 19:36:46 Swiss Time*
+*Last updated: 30-10-2026 19:55:07 Swiss Time*
