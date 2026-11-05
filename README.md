@@ -17,4 +17,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**ICT-Testmanager:in / Test Automation Engineer (m/w/d)**](https://ictjobs.ch/software-entwicklung/ict-testmanagerin-test-automation-engineer-m-w-d/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 05-11-2026 21:39:17 Swiss Time*
+*Last updated: 05-11-2026 21:52:14 Swiss Time*
