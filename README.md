@@ -15,4 +15,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Teamlead Microsoft IT Services – Aufbau Standort Bern**](https://ictjobs.ch/system-netzwerktechnik-security-voip/teamlead-microsoft-it-services-aufbau-standort-bern-3/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 06-11-2026 20:56:50 Swiss Time*
+*Last updated: 06-11-2026 21:07:55 Swiss Time*
