@@ -5,14 +5,14 @@ This page is automatically updated with the latest job listings for the newslett
 **Schedule:** Runs every Thursday and Friday at 15:15, 15:30, 15:45, and 16:00 Swiss Time.
 *(Automatically adjusts for Daylight Saving Time / Summer Time)*
 
-### 🗓️ Extraction Date: 06-11-2026
-### 🚀 Targeted Newsletter Week: 09-11-2026
+### 🗓️ Extraction Date: 12-11-2026
+### 🚀 Targeted Newsletter Week: 16-11-2026
 
 #### Newsletter Entries:
 
-* [**Plattform Architekt AI (m/w/d)**](https://ictjobs.ch/system-netzwerktechnik-security-voip/plattform-architekt-ai-m-w-d/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
-* [**IT-System Lead Engineer (axelion ag)**](https://ictjobs.ch/system-netzwerktechnik-security-voip/it-system-lead-engineer-axelion-ag/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
-* [**Teamlead Microsoft IT Services – Aufbau Standort Bern**](https://ictjobs.ch/system-netzwerktechnik-security-voip/teamlead-microsoft-it-services-aufbau-standort-bern-3/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
+* [**Application Manager:in (a) 100%**](https://ictjobs.ch/support-it-services/application-managerin-a-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
+* [**Software Engineer mit DevOps-Mindset 70–100%**](https://ictjobs.ch/software-entwicklung/software-engineer-mit-devops-mindset-70-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
+* [**Cloud Operations Lead (80–100 %)**](https://ictjobs.ch/system-netzwerktechnik-security-voip/cloud-operations-lead-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 06-11-2026 21:07:55 Swiss Time*
+*Last updated: 12-11-2026 21:48:41 Swiss Time*
