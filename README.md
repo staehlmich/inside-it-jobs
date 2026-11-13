@@ -15,4 +15,4 @@ This page is automatically updated with the latest job listings for the newslett
 * [**Cloud Operations Lead (80–100 %)**](https://ictjobs.ch/system-netzwerktechnik-security-voip/cloud-operations-lead-80-100/?encode_url=1&utm_source=nside-it.ch_jobliste_nl&utm_medium=inside_jobliste_nl&utm_campaign=jobliste_nl_inside-it.ch)
 
 ---
-*Last updated: 13-11-2026 21:28:43 Swiss Time*
+*Last updated: 13-11-2026 21:41:18 Swiss Time*
